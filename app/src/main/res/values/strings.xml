@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Recipe List</string>
+    <string name="recipeName">Name</string>
+    <string name="ingredientsLbl">Ingredients:</string>
+    <string name="proceduresLbl">Procedures:</string>
+    <string name="sampleProcedure">Sample Procedure</string>
+    <string name="sampleIngredient">Sample Ingredient</string>
 </resources>
